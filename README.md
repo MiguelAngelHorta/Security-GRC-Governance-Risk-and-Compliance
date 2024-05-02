@@ -1,5 +1,6 @@
 # Security-GRC-Governance-Risk-and-Compliance
 Security GRC Governance Risk and Compliance
+![image](https://github.com/MiguelAngelHorta/Security-GRC-Governance-Risk-and-Compliance/assets/106134627/09822e55-3242-468f-80f8-6e11706865b5)
 
 # Understanding Security Governance, Risk, and Compliance (GRC)
 
