@@ -21,6 +21,10 @@ The architecture comprises the following components:
 
 Security Governance, Risk, and Compliance (GRC) is a comprehensive approach to managing security within an organization. It encompasses a range of activities aimed at protecting information assets, mitigating risks, and ensuring compliance with relevant laws, regulations, and industry standards. Let's delve deeper into each component:
 
+
+<img src="https://github.com/MiguelAngelHorta/Security-GRC-Governance-Risk-and-Compliance/assets/106134627/4864c0ff-2a7c-40b4-b7d2-71f14b9496df" alt="Screenshot" style="width: 900px; height: 400px; max-width: 100%; height: auto;">
+
+
 ## 💂‍♂️ Governance 
 
 Governance is the foundation of security management, providing strategic direction and oversight. It involves the development and implementation of security policies, procedures, and controls to align with business objectives. Governance ensures that security initiatives are integrated into the organization's overall strategy and that resources are allocated effectively. Key responsibilities include:
@@ -36,9 +40,8 @@ Governance is the foundation of security management, providing strategic directi
 Risk management is the process of identifying, assessing, and prioritizing risks to minimize their impact on the organization. It involves analyzing threats, vulnerabilities, and potential consequences to determine the likelihood and severity of adverse events. Risk management frameworks provide structured approaches to:
 
 - Identify and categorize risks.
-- Assess the effectiveness of existing controls.
 - Prioritize risk mitigation efforts.
-- Monitor and review risk exposure over time.
+- Monitor, assess, and review risk exposure over time.
 
 By quantifying risks and their potential impacts, organizations can make informed decisions about resource allocation and risk treatment strategies.
 
