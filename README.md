@@ -1,6 +1,25 @@
-# Security-GRC-Governance-Risk-and-Compliance
-Security GRC Governance Risk and Compliance
-![image](https://github.com/MiguelAngelHorta/Security-GRC-Governance-Risk-and-Compliance/assets/106134627/09822e55-3242-468f-80f8-6e11706865b5)
+# Security Engineering Repository
+
+This repository contains architecture and details regarding GRC governance risk and compliance engineering aimed at building a mature GRC program at an enterprise. The framework is designed to manage various data elements from in-scope systems, securely authenticate and authorize data access, and provide functionalities for monitoring controls, measuring program maturity, and conducting gap assessments.
+
+## Architecture Overview
+
+The architecture comprises the following components:
+
+- **Data Categorization and Ingestion**: Various data elements from in-scope systems are categorized and ingested by a middleware, which manages API connections for each.
+- **API Management**: Middleware securely manages API connections and authenticates/authorizes data access.
+- **GRC Application**: A centralized GRC application with modules for Governance, Risk, and Compliance.
+  - **Governance Module**: Manages policies, metrics, security goals, projects, and stakeholder alignment.
+  - **Risk Module**: Tracks vendors, maintains a risk inventory, and facilitates issue tracking.
+  - **Compliance Module**: Includes controls inventory, external/internal audits, evidence collection, and control monitoring.
+- **Database Management**: Separate databases for Governance, Risk, and Compliance modules, each with specific tables to manage relevant data.
+- **API Server**: Provides access to GRC applications via APIs, interacting with databases and offering a user-friendly interface for both non-technical stakeholders and GRC team members.
+
+## Usage
+
+Users can access the GRC applications through the API server, allowing for seamless interaction with the databases and simplified user experiences for stakeholders and team members.
+
+<img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/c3abf6a9-1039-4602-98d2-8e26c28d79b9" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
 
 # Understanding Security Governance, Risk, and Compliance (GRC)
 
@@ -37,10 +56,6 @@ Auditing and compliance activities ensure that security controls are implemented
 - Implementing remediation plans to address deficiencies.
 - Maintaining documentation and evidence of compliance efforts.
 
-By demonstrating adherence to established standards and regulations, organizations can build trust with customers, partners, and regulators.
-
-## 🏦 Frameworks and Regulations 
-
 Numerous frameworks and regulations provide guidance on security best practices and regulatory requirements. These include:
 
 - Sarbanes-Oxley Act (SOX): Regulates financial reporting and internal controls for publicly traded companies.
@@ -48,5 +63,9 @@ Numerous frameworks and regulations provide guidance on security best practices 
 - Payment Card Industry Data Security Standard (PCI-DSS): Sets requirements for securing payment card data.
 - Health Insurance Portability and Accountability Act (HIPAA): Protects the privacy and security of healthcare information.
 - International Organization for Standardization's Information Security Management Standard (ISO 27001): Provides a framework for establishing, implementing, maintaining, and continuously improving an information security management system.
+- Service Organization Control 2 (SOC2): Developed by the American Institute of CPAs (AICPA), SOC2 defines criteria for managing customer data based on five trust service principles: security, availability, processing integrity, confidentiality, and privacy.
+- Center for Internet Security Critical Security Controls (CIS CSC): CIS CSC is a set of cybersecurity best practices and guidelines for improving an organization's security posture.
 
 Compliance with these frameworks and regulations is essential for mitigating legal and reputational risks and ensuring the security and privacy of sensitive information.
+
+<img src="https://github.com/MiguelAngelHorta/Security-GRC-Governance-Risk-and-Compliance/assets/106134627/28a7cc3e-f490-4730-bed0-958a9538fd95" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
