@@ -1,6 +1,6 @@
 # Security Engineering Repository
 
-This repository contains architecture and details regarding GRC governance risk and compliance engineering aimed at building a mature GRC program at an enterprise. The framework is designed to manage various data elements from in-scope systems, securely authenticate and authorize data access, and provide functionalities for monitoring controls, measuring program maturity, and conducting gap assessments.
+This repository contains architecture and details regarding GRC governance risk and compliance engineering aimed at building a mature GRC program at an enterprise.
 
 ## 🔐 Architecture Overview
 
