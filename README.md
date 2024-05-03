@@ -2,7 +2,7 @@
 
 This repository contains architecture and details regarding GRC governance risk and compliance engineering aimed at building a mature GRC program at an enterprise. The framework is designed to manage various data elements from in-scope systems, securely authenticate and authorize data access, and provide functionalities for monitoring controls, measuring program maturity, and conducting gap assessments.
 
-## Architecture Overview
+## 🔐 Architecture Overview
 
 The architecture comprises the following components:
 
@@ -14,12 +14,9 @@ The architecture comprises the following components:
   - **Compliance Module**: Includes controls inventory, external/internal audits, evidence collection, and control monitoring.
 - **Database Management**: Separate databases for Governance, Risk, and Compliance modules, each with specific tables to manage relevant data.
 - **API Server**: Provides access to GRC applications via APIs, interacting with databases and offering a user-friendly interface for both non-technical stakeholders and GRC team members.
+- **Usage**: Users can access the GRC applications through the API server, allowing for seamless interaction with the databases and simplified user experiences for stakeholders and team members.
 
-## Usage
-
-Users can access the GRC applications through the API server, allowing for seamless interaction with the databases and simplified user experiences for stakeholders and team members.
-
-<img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/c3abf6a9-1039-4602-98d2-8e26c28d79b9" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
+<img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/c3abf6a9-1039-4602-98d2-8e26c28d79b9" alt="Screenshot" style="width: 900px; height: 400px; max-width: 100%; height: auto;">
 
 # Understanding Security Governance, Risk, and Compliance (GRC)
 
