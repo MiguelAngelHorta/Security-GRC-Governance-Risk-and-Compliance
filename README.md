@@ -4,7 +4,7 @@ This repository contains architecture and details regarding GRC governance risk 
 
 ## 🔐 Architecture Overview
 
-The architecture comprises the following components:
+The architecture comprises the following components describing how a GRC program is engineered to streamline GRC efforts resulting in reduced manual effort due to automation:
 
 - **Data Categorization and Ingestion**: Various data elements from in-scope systems are categorized and ingested by a middleware, which manages API connections for each.
 - **API Management**: Middleware securely manages API connections and authenticates/authorizes data access.
