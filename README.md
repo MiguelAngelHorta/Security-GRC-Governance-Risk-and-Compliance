@@ -1,9 +1,9 @@
-# Security Engineering Repository
+# Security GRC Engineering Repository
 
 This repository contains architecture and details regarding GRC governance risk and compliance engineering aimed at building a mature GRC program at an enterprise.
 
 
-## 🔐 Security GRC Automation
+## 🔐 GRC Program Automation Architecture
 
 The architecture comprises the following components describing how a GRC program is engineered to streamline GRC efforts resulting in reduced manual effort due to automation:
 
