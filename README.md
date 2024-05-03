@@ -2,7 +2,8 @@
 
 This repository contains architecture and details regarding GRC governance risk and compliance engineering aimed at building a mature GRC program at an enterprise.
 
-## 🔐 Architecture Overview
+
+## 🔐 Security GRC Automation
 
 The architecture comprises the following components describing how a GRC program is engineered to streamline GRC efforts resulting in reduced manual effort due to automation:
 
@@ -35,6 +36,9 @@ Governance is the foundation of security management, providing strategic directi
 - Monitoring and reporting on security performance.
 - Managing relationships with stakeholders and senior executives.
 
+![Alt Text](https://media.giphy.com/media/1jdK1bobNR2kzcvk96/giphy.gif)
+
+
 ## 📈 Risk Management 
 
 Risk management is the process of identifying, assessing, and prioritizing risks to minimize their impact on the organization. It involves analyzing threats, vulnerabilities, and potential consequences to determine the likelihood and severity of adverse events. Risk management frameworks provide structured approaches to:
@@ -44,6 +48,9 @@ Risk management is the process of identifying, assessing, and prioritizing risks
 - Monitor, assess, and review risk exposure over time.
 
 By quantifying risks and their potential impacts, organizations can make informed decisions about resource allocation and risk treatment strategies.
+
+![Alt Text](https://media.giphy.com/media/m59zqS6G8jE9Ip4daQ/giphy.gif)
+
 
 ## ⚖️ Audit & Compliance 
 
@@ -67,4 +74,4 @@ Numerous frameworks and regulations provide guidance on security best practices 
 
 Compliance with these frameworks and regulations is essential for mitigating legal and reputational risks and ensuring the security and privacy of sensitive information.
 
-<img src="https://github.com/MiguelAngelHorta/Security-GRC-Governance-Risk-and-Compliance/assets/106134627/28a7cc3e-f490-4730-bed0-958a9538fd95" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
+![Alt Text](https://media.giphy.com/media/WQ1SYcn1GxpvrMPJzy/giphy.gif)
